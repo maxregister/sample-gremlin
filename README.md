@@ -3,6 +3,10 @@
 Static-analysis-only pipeline: Discord bot → DigitalOcean → Ghidra (MCP) → Claude.
 The binary is **never executed**. Ghidra disassembles and decompiles it statically.
 
+
+<img width="550" height="793" alt="Screenshot 2026-03-31 185756" src="https://github.com/user-attachments/assets/44ebd844-8ce4-44af-a123-b4e9240dacd9" />
+
+
 ---
 
 ## Services (all on one Droplet)
